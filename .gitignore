@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+
+# NuGet
+project.assets.json
+project.assets.cache
+*.nuget.g.props
+*.nuget.g.targets
+
+# Generated files
+*.AssemblyInfo.cs
+*.GlobalUsings.g.cs
+GeneratedMSBuildEditorConfig.editorconfig
+
+# IDEs
+.vs/
